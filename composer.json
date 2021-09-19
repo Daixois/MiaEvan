@@ -95,7 +95,9 @@
     "extra": {
         "symfony": {
             "allow-contrib": false,
-            "require": "5.3.*"
+            "require": "5.3.*",
+
+            "public-dir": "www"
         }
     }
 }
